@@ -12,4 +12,5 @@ The Landing Page serves as an entry point to a website or application, providing
 Allows seamless navigation across different sections of the landing page.
 
 2. Call-to-Action
+
 Engages users through visually appealing elements, guiding them towards specific actions.
